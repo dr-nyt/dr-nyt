@@ -14,13 +14,11 @@
 </p>
 
 ## I'm a Designer and a Developer!
-
--   <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="20"/> I'm studying Computer Information Technology & Computer Security at
--   💼 Founder of HanaDigital <a href="https://shehryar.hanadigital.me/" target="_blank"><img src="https://avatars2.githubusercontent.com/u/61651790?s=200&v=4" width="18"/></a>
 -   🌱 I’m currently learning, everything.
+-   💼 Founder of HanaDigital <a href="https://shehryar.hanadigital.me/" target="_blank"><img src="https://avatars2.githubusercontent.com/u/61651790?s=200&v=4" width="18"/></a>
 -   👯 I’m looking to collaborate with other content creators.
 -   🥅 2020 Goals: Contribute more to Open Source projects.
--   ⚡ Fun fact: I like to draw and I'm global in csgo ;3
+-   ⚡ Fun fact: I love reading books and I'm global in csgo ;3
 
 ## Where to find me
 
