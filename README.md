@@ -15,7 +15,7 @@
 
 ## I'm a Designer and a Developer!
 -   🌱 I’m currently learning, everything.
--   💼 Founder of HanaDigital <a href="https://shehryar.hanadigital.me/" target="_blank"><img src="https://avatars2.githubusercontent.com/u/61651790?s=200&v=4" width="18"/></a>
+-   💼 Founder of [@HanaDigital](https://github.com/HanaDigital) <a href="https://github.com/HanaDigital" target="_blank"><img src="https://avatars2.githubusercontent.com/u/61651790?s=200&v=4" width="18"/></a>
 -   👯 I’m looking to collaborate with other content creators.
 -   🥅 2020 Goals: Contribute more to Open Source projects.
 -   ⚡ Fun fact: I love reading books and I'm global in csgo ;3
