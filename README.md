@@ -1,4 +1,4 @@
-### Hello there, this is Shehryar - aka [dr-nyt][website] 👋
+<img align="center" width="100%" src="https://i.imgur.com/7IgC4CL.png" />
 
 <p>
     <em>
