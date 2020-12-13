@@ -33,7 +33,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/HanaDigital/NovelScraper?style=for-the-badge)](https://github.com/HanaDigital/NovelScraper/stargazers)
 
 <a href="https://github.com/dr-nyt/dr-nyt">
-  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=dr-nyt&hide=stars&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="dr-nyt's GitHub Stats" />
+  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=dr-nyt&hide=stars&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=radical%hide_border=true" alt="dr-nyt's GitHub Stats" />
 </a>
 
 [website]: https://shehryar.hanadigital.me/
