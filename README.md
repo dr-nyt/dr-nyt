@@ -14,7 +14,7 @@
 </p>
 
 ### I Code & Design beautiful things.
--   🌱 I’m currently learning, everything.
+-   🌱 I’m currently learning Phaser.
 -   💼 Founder of [@HanaDigital](https://github.com/HanaDigital) <a href="https://github.com/HanaDigital" target="_blank"><img src="https://avatars2.githubusercontent.com/u/61651790?s=200&v=4" width="18"/></a>
 -   👯 I’m looking to collaborate with other content creators.
 -   🥅 2020 Goals: Contribute more to Open Source projects.
