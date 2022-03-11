@@ -31,8 +31,8 @@
 ---
 
 ### &#x1f4c8; GitHub Stats
-[![Download Count](https://img.shields.io/github/downloads/HanaDigital/NovelScraper/total.svg?style=for-the-badge)](https://github.com/HanaDigital/NovelScraper/releases)
-[![GitHub stars](https://img.shields.io/github/stars/HanaDigital/NovelScraper?style=for-the-badge)](https://github.com/HanaDigital/NovelScraper/stargazers)
+[![Download Count](https://img.shields.io/github/downloads/HanaDigital/NovelScraper/total.svg?style=for-the-badge)](https://github.com/HanaDigital/NovelScraper#readme)
+[![GitHub stars](https://img.shields.io/github/stars/HanaDigital/grev?style=for-the-badge)](https://github.com/HanaDigital/grev#readme)
 
 <a href="https://github.com/dr-nyt/dr-nyt">
   <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=dr-nyt&hide=stars&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=radical%hide_border=true" alt="dr-nyt's GitHub Stats" />
