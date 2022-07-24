@@ -11,9 +11,9 @@
 
 <p align="center">
     <em>
-        Studying Computer Information Technology & Computer Security at
+        BSc in Computer Information Technology & Computer Security at
         <a href="https://www.rit.edu/"
-            >Rochester Institute of Technology (Dubai)</a
+            >Rochester Institute of Technology</a
         >
         <img
             src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif"
@@ -23,7 +23,7 @@
 </p>
 
 ### I Code & Design beautiful things.
--   🌱 I’m currently learning Computer Algorithms & DevOps.
+-   🌱 I’m currently learning Rust ;)
 -   💼 Founder of [@HanaDigital](https://github.com/HanaDigital) <a href="https://github.com/HanaDigital" target="_blank"><img src="https://avatars2.githubusercontent.com/u/61651790?s=200&v=4" width="18"/></a>
 -   🥅 2022 Goals: Learn more about procedural computer graphics (OpenGL / GLSL).
 -   ⚡ Fun fact: I love reading books and I'm global in csgo ;3
